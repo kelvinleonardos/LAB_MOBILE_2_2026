@@ -156,19 +156,24 @@ Dimuat ulang di `onResume()` ProfileActivity.
 ## 📸 Screenshot Tampilan Aplikasi
 
 ### Home Feed
-![Home Feed](screenshots/home_feed.png)
+<img src="screenshots/home_feed.png" width="250" />
+
 
 ### Profile
-![Profile](screenshots/profile.png)
+<img src="screenshots/profile.png" width="250" />
+
 
 ### Detail Feed
-![Detail Feed](screenshots/detail_feed.png)
+<img src="screenshots/detail_feed.png" width="250" />
+
 
 ### Detail Highlight
-![Detail Highlight](screenshots/detail_highlight.png)
+<img src="screenshots/detail_highlight.png" width="250" />
+
 
 ### Halaman Post
-![Halaman Post](screenshots/buat_postingan.png)
+<img src="screenshots/buat_postingan.png" width="250" />
+
 ---
 
 ## 👨‍💻 Kesimpulan
