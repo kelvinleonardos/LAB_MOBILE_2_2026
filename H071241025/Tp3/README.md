@@ -196,18 +196,18 @@ public class DataDummy {
 
 ### Filter
 
-Filter Genre : Drama
-Sorting : Tahun terlama → Tahun terbaru
+#### Filter Genre : Drama
+#### Sorting : Tahun terlama → Tahun terbaru
 <img src="screenshots/home_filter.png" width="250"/>
 
-Search Buku
+#### Search Buku
 <img src="screenshots/search.png" width="250"/>
 
 ### Detail
 
 <img src="screenshots/detail_buku.png" width="250"/>
 
-Detail buku favorite : (button like telah ditekan)
+#### Detail buku favorite : (button like telah ditekan)
 <img src="screenshots/detail.png" width="250"/>
 
 ### Favorites
@@ -218,7 +218,7 @@ Detail buku favorite : (button like telah ditekan)
 
 <img src="screenshots/add_book.png" width="250"/>
 
-Setelah buku ditambahkan akan muncul di halaman Home paling atas :
+#### Setelah buku ditambahkan akan muncul di halaman Home paling atas :
 <img src="screenshots/after_add.png" width="250"/>
 
 
