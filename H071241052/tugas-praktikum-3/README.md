@@ -67,8 +67,8 @@ Aplikasi memanfaatkan metode `onResume()` pada `FavoriteFragment` untuk melakuka
 
 ---
 
-## 👤 Identitas Pengembang
-**Nama**: Isnadiyah Nur Fadhilah  
+## Identitas Pengembang
+**Nama**: Isnadia Nurfadillah 
 **NIM**: H071241052  
 **Program Studi**: Sistem Informasi  
 **Instansi**: Universitas Hasanuddin (Unhas)
